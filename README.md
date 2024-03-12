@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about AI safety, generative design, and physics informed neural networks.
 - 💬 Ask me about my time at [Open Bionics](https://openbionics.com/)
 
+### Socials
+<a href=https://www.linkedin.com/in/rainesjonathan/ ><img src="assets/5296501_linkedin_network_linkedin logo_icon.svg" width="25"></a>
+
+### Contributions
 ![](profile-3d-contrib/profile-night-green.svg)
-<!-- <img src="profile-3d-contrib/profile-night-green.svg" width="500"> -->
+<!-- <img src="profile-3d-contrib/profile-night-green.svg" width="800"> -->
