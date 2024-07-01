@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about my time at [Open Bionics](https://openbionics.com/)
 
 ### Socials
-<a href=https://www.linkedin.com/in/rainesjonathan/ ><img src="assets/5296501_linkedin_network_linkedin logo_icon.svg" width="25"></a>
-<a href=https://www.researchgate.net/profile/Jonathan-Raines><img src="assets/9113425_researchgate_icon.svg" width="23" style="background-color:white;padding:1px;border-radius:3px;"></a>
+<a href="https://www.linkedin.com/in/rainesjonathan/"><img src="assets/5296501_linkedin_network_linkedin logo_icon.svg" width="25"></a>
+<a href="https://scholar.google.com/citations?user=yUhjTDsAAAAJ&hl=en"><img src="assets/Google_Scholar_logo.svg" width="25"></a>
+<a href="https://www.researchgate.net/profile/Jonathan-Raines"><img src="assets/9113425_researchgate_icon.svg" width="25"></a>
 <a href=https://orcid.org/0009-0001-8325-2005><img src="assets/ORCID_iD.svg" width="25"></a>
 
 ### Contributions
