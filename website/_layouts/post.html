@@ -1,0 +1,24 @@
+---
+---
+
+<!doctype html>
+<html lang="en">
+    {% include head.html blog=true %}
+    <body>
+        {% include header.html %}
+        <main>
+            <h1>{{page.title | escape}}</h1>
+            <div class="blog-meta">
+                {{ page.date | date: "%B %d, %Y" }} | {{page.author}}
+            </div>
+            <div class="blog-tags">
+                {% for tag in page.tags %}
+                <div class="tag">{{tag}}</div>
+                {% endfor %}
+            </div>
+            <article class="blog-content">{{ content }}</article>
+        </main>
+
+        {% include footer.html %}
+    </body>
+</html>
